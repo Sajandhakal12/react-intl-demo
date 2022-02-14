@@ -1,0 +1,6 @@
+{
+  "global.welcomeMessage": "Welcome to our Application, Mr {name} !",
+  "user.heading": "Your Info",
+  "user.height": "Height",
+  "user.money": "Money"
+}
